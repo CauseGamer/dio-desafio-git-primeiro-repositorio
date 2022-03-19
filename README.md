@@ -1,2 +1,2 @@
 # dio-desafio-git-primeiro-repositorio
-desafio de projeto dio.me
+desafio de projeto git/github dio.me
